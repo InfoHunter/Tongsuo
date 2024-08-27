@@ -7,6 +7,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/Tongsuo-Project/Tongsuo/badge.svg?branch=master)](https://coveralls.io/github/Tongsuo-Project/Tongsuo?branch=master)
 ![GitHub Release][github release]
 [![GitHub Downloads (all assets, all releases)][github downloads]](https://github.com/Tongsuo-Project/Tongsuo/releases)
+<a href="https://cla-assistant.io/Tongsuo-Project/Tongsuo"><img src="https://cla-assistant.io/readme/badge/Tongsuo-Project/Tongsuo" alt="CLA assistant" /></a>
 
 铜锁/Tongsuo是一个提供现代密码学算法和安全通信协议的开源基础密码库，为存储、网络、密钥管理、隐私计算等诸多业务场景提供底层的密码学基础能力，实现数据在传输、使用、存储等过程中的私密性、完整性和可认证性，为数据生命周期中的隐私和安全提供保护能力。
 
